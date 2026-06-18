@@ -1,0 +1,7 @@
+1234567,Jane Doe,123 Maple Street Orlando FL 32801,15.50
+2345678,John Smith,456 Oak Avenue Tampa FL 33601,0.00
+3456789,Maria Garcia,789 Pine Road Miami FL 33101,75.25
+4567890,Robert Johnson,321 Elm Drive Jacksonville FL 32201,250.00
+5678901,Emily Davis,654 Birch Lane Tallahassee FL 32301,42.00
+6789012,Michael Brown,987 Cedar Court Gainesville FL 32601,0.00
+7890123,Sarah Wilson,135 Spruce Way Ocala FL 34471,120.75
